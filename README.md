@@ -1,6 +1,7 @@
 # quantum-driving
 Companion code for
 "Fully-programmable universal quantum computer with a one-dimensional quantum system" (VM Bastidas, T Haug, C Gravel, LC Kwek, WJ Munro, K Nemoto) arXiv:2009.00823
+
 https://arxiv.org/abs/2009.00823
 
 Create arbitrary effective Hamiltonians by driving a one-dimensional quantum system in time.
