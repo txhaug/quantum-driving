@@ -9,6 +9,12 @@ This program allows this system to realise arbitrary Hamiltonians by driving the
 The driving protocol is optimised to realise the desired effective Hamiltonian which describes the dynamics of one driving period.
 Driving protocols found by optimisation with GRAPE and qutip.
 
+Prerequisits:
+Python 3.6
+numpy
+scipy
+qutip (pip install qutip)
+
 
 
 
