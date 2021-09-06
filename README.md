@@ -12,12 +12,10 @@ Driving protocols found by optimisation with GRAPE and qutip.
 
 Prerequisits:
 
-Python 3.6
-numpy
-
-scipy
-
-qutip (pip install qutip)
+- Python 3.6
+- numpy
+- scipy
+- qutip (pip install qutip)
 
 
 
