@@ -1,4 +1,4 @@
-# quantum-driving
+# Fully-programmable universal quantum computer with a one-dimensional quantum system
 Companion code for
 "Fully-programmable universal quantum computer with a one-dimensional quantum system" (VM Bastidas, T Haug, C Gravel, LC Kwek, WJ Munro, K Nemoto) arXiv:2009.00823
 
