@@ -16,7 +16,7 @@ Prerequisits:
 - Python 3.6
 - numpy
 - scipy
-- qutip (pip install qutip)
+- Requires older version of qutip, namely <=4.7.5, install via "pip install qutip==4.7.5"
 
 
 
